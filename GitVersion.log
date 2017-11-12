@@ -1,0 +1,27 @@
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:63] Working directory: D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:65] IsDynamicGitRepository: False
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:67] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:69] Running on Windows.
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:70] IsDynamicGitRepository: False
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:70] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:72] Project root is: D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:72] DotGit directory is: D:\github\lexusean\Helpers\.git
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:73] IsDynamicGitRepository: False
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:73] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:80] Begin: Loading version variables from disk cache
+2017-11-12 16:54:22		  INFO [11/12/17 16:54:22:82] Cache file D:\github\lexusean\Helpers\.git\gitversion_cache\BF4B069A464C2C4B535F986BBD57274C115B98CA.yml not found.
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:82] End: Loading version variables from disk cache (Took: 15.64ms)
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:82] IsDynamicGitRepository: False
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:83] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:54:22		INFO [11/12/17 16:54:22:97] Using latest commit on specified branch
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:00] Running against branch: develop (221a5f93171ac5993ab3ce29927dc4429f8e92b0)
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:02] Begin: Calculating base versions
+2017-11-12 16:54:23		  INFO [11/12/17 16:54:23:05] Fallback base version: 0.1.0 with commit count source 6f8e6d8742484e39b41091fad78f382a21e74dd9
+2017-11-12 16:54:23		  INFO [11/12/17 16:54:23:14] Base version used: Fallback base version: 0.1.0 with commit count source 6f8e6d8742484e39b41091fad78f382a21e74dd9
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:17] End: Calculating base versions (Took: 147.05ms)
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:19] Skipping version increment
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:19] 3 commits found between 6f8e6d8742484e39b41091fad78f382a21e74dd9 and 221a5f93171ac5993ab3ce29927dc4429f8e92b0
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:22] Begin: Creating dictionary
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:23] End: Creating dictionary (Took: 15.66ms)
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:23] Begin: Storing version variables to cache file D:\github\lexusean\Helpers\.git\gitversion_cache\BF4B069A464C2C4B535F986BBD57274C115B98CA.yml
+2017-11-12 16:54:23		INFO [11/12/17 16:54:23:30] End: Storing version variables to cache file D:\github\lexusean\Helpers\.git\gitversion_cache\BF4B069A464C2C4B535F986BBD57274C115B98CA.yml (Took: 69.08ms)
