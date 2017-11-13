@@ -1,0 +1,58 @@
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:29] Working directory: D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:30] IsDynamicGitRepository: False
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:34] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:35] Running on Windows.
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:37] IsDynamicGitRepository: False
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:37] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:37] Project root is: D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:39] DotGit directory is: D:\github\lexusean\Helpers\.git
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:39] IsDynamicGitRepository: False
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:40] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:47] Begin: Loading version variables from disk cache
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:47] Cache file D:\github\lexusean\Helpers\.git\gitversion_cache\488AFFB143F7075D61CDC654CC51370F51FECB01.yml not found.
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:49] End: Loading version variables from disk cache (Took: 21.19ms)
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:49] IsDynamicGitRepository: False
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:49] Returning Project Root from DotGitDirectory: D:\github\lexusean\Helpers\.git - D:\github\lexusean\Helpers
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:64] Using latest commit on specified branch
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:67] Begin: Attempting to inherit branch configuration from parent branch
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:69] Begin: Finding branch source
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:72] Begin: Found merge base of af623765e1abc304cdde25eeb891973d2dfc2b55 against develop
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:74] End: Found merge base of af623765e1abc304cdde25eeb891973d2dfc2b55 against develop (Took: 15.63ms)
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:74] Begin: Found merge base of 221a5f93171ac5993ab3ce29927dc4429f8e92b0 against master
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:75] End: Found merge base of 221a5f93171ac5993ab3ce29927dc4429f8e92b0 against master (Took: 15.61ms)
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:75] Begin: Found merge base of af623765e1abc304cdde25eeb891973d2dfc2b55 against rc
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:77] End: Found merge base of af623765e1abc304cdde25eeb891973d2dfc2b55 against rc (Took: 15.63ms)
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:77] End: Finding branch source (Took: 78.16ms)
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:79] Begin: Getting branches containing the commit 'af623765e1abc304cdde25eeb891973d2dfc2b55'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:79] Trying to find direct branches.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:80] No direct branches found, searching through tracked branches.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:80] Searching for commits reachable from 'develop'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:82] The branch 'develop' has a matching commit.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:82] Searching for commits reachable from 'rc'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:84] The branch 'rc' has a matching commit.
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:84] End: Getting branches containing the commit 'af623765e1abc304cdde25eeb891973d2dfc2b55'. (Took: 47.27ms)
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:85] Begin: Getting branches containing the commit 'af623765e1abc304cdde25eeb891973d2dfc2b55'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:85] Trying to find direct branches.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:87] No direct branches found, searching through tracked branches.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:87] Searching for commits reachable from 'develop'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:87] The branch 'develop' has a matching commit.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:89] Searching for commits reachable from 'rc'.
+2017-11-12 16:58:30		    INFO [11/12/17 16:58:30:89] The branch 'rc' has a matching commit.
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:89] End: Getting branches containing the commit 'af623765e1abc304cdde25eeb891973d2dfc2b55'. (Took: 37.75ms)
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:89] Found possible parent branches: 
+2017-11-12 16:58:30		  WARN [11/12/17 16:58:30:90] Failed to inherit Increment branch configuration, no branches found.
+
+Falling back to develop branch config
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:90] End: Attempting to inherit branch configuration from parent branch (Took: 237.35ms)
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:92] Running against branch: feature/test-feature (af623765e1abc304cdde25eeb891973d2dfc2b55)
+2017-11-12 16:58:30		INFO [11/12/17 16:58:30:94] Begin: Calculating base versions
+2017-11-12 16:58:30		  INFO [11/12/17 16:58:30:95] Fallback base version: 0.1.0 with commit count source 6f8e6d8742484e39b41091fad78f382a21e74dd9
+2017-11-12 16:58:31		  INFO [11/12/17 16:58:31:05] Base version used: Fallback base version: 0.1.0 with commit count source 6f8e6d8742484e39b41091fad78f382a21e74dd9
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:05] End: Calculating base versions (Took: 113.99ms)
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:07] Skipping version increment
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:09] Using branch name to calculate version tag
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:09] 4 commits found between 6f8e6d8742484e39b41091fad78f382a21e74dd9 and af623765e1abc304cdde25eeb891973d2dfc2b55
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:12] Begin: Creating dictionary
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:12] End: Creating dictionary (Took: 0.00ms)
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:14] Begin: Storing version variables to cache file D:\github\lexusean\Helpers\.git\gitversion_cache\488AFFB143F7075D61CDC654CC51370F51FECB01.yml
+2017-11-12 16:58:31		INFO [11/12/17 16:58:31:19] End: Storing version variables to cache file D:\github\lexusean\Helpers\.git\gitversion_cache\488AFFB143F7075D61CDC654CC51370F51FECB01.yml (Took: 52.98ms)

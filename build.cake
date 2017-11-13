@@ -29,10 +29,16 @@ Task(versionInfoTarget)
   .Does(() =>
   {
     var result = GitVersion(new GitVersionSettings {
-      NoFetch = false
+      NoFetch = false,
+      LogFilePath = File("GitVersion.log")
     });
 
     Information("FullSemVer: {0}, FullBuildMetaData: {1}", result.FullSemVer, result.FullBuildMetaData);
+    Information("MajorMinorPatch: {0}", result.MajorMinorPatch);
+    Information("PreReleaseLabel: {0}", result.PreReleaseLabel);
+    Information("PreReleaseTagWithDash: {0}", result.PreReleaseTagWithDash);
+    Information("NugetVersion: {0}", result.NuGetVersion);
+    Information("InformationVersion: {0}", result.InformationalVersion);
   });
 
 Task("Default")
@@ -40,6 +46,7 @@ Task("Default")
   .Does(() => 
   {
     Information("Hello World!");
+    Information("Testing...");
   });
   
 RunTarget(entryPoint);

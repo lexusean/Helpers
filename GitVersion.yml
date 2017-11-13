@@ -1,0 +1,13 @@
+branches:
+    master:
+        tag:
+        mode: ContinuousDeployment
+    develop:
+        tag: beta
+        mode: ContinuousDeployment
+    rc:
+        tag: rc
+        mode: ContinuousDeployment
+    (pull|pull\-request|pr)[/-]:
+        tag: pr
+    
