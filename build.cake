@@ -46,6 +46,7 @@ Task("Default")
   .Does(() => 
   {
     Information("Hello World!");
+    Information("Testing...");
   });
   
 RunTarget(entryPoint);
