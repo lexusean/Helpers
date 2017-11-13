@@ -1,7 +1,6 @@
 branches:
     master:
         tag:
-        mode: ContinuousDeployment
     develop:
         tag: beta
         mode: ContinuousDeployment
